@@ -1,0 +1,37 @@
+{
+  "name": "rent-compass-uk",
+  "version": "0.1.0",
+  "description": "Evidence-led UK rental search, commute matching, listing comparison, and pre-commitment checks.",
+  "author": {
+    "name": "echoechoed",
+    "url": "https://github.com/echoechoed"
+  },
+  "homepage": "https://github.com/echoechoed/rent-compass-uk",
+  "repository": "https://github.com/echoechoed/rent-compass-uk",
+  "license": "MIT",
+  "keywords": [
+    "uk-rentals",
+    "housing",
+    "commute",
+    "property-search",
+    "renters"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rent Compass UK",
+    "shortDescription": "Find and assess UK rentals before you commit",
+    "longDescription": "Build a renter profile, discover areas from real commutes, search and verify current listings, compare total costs, and prepare checks before signing or paying.",
+    "developerName": "echoechoed",
+    "category": "Productivity",
+    "capabilities": [
+      "Research",
+      "Read"
+    ],
+    "websiteURL": "https://github.com/echoechoed/rent-compass-uk",
+    "defaultPrompt": [
+      "Help me build a UK rental search profile from my budget, dates, household, commutes, and preferences.",
+      "Find and compare current UK rental listings, showing evidence, total costs, commute assumptions, trade-offs, and unknowns.",
+      "Check this UK rental listing before I book a viewing, sign, or pay."
+    ]
+  }
+}
