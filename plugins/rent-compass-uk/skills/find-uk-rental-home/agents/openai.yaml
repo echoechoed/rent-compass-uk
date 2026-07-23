@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rent Compass UK"
+  short_description: "Find and assess UK rentals before committing"
+  default_prompt: "Use $find-uk-rental-home to find and compare UK rental homes around my commute, budget, dates, household, and preferences."
