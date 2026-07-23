@@ -1,0 +1,20 @@
+{
+  "name": "rent-compass-uk",
+  "interface": {
+    "displayName": "Rent Compass UK"
+  },
+  "plugins": [
+    {
+      "name": "rent-compass-uk",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rent-compass-uk"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
